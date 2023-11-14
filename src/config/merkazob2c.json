@@ -1,0 +1,23 @@
+{
+    "conexion": {
+        "HostDB": "127.0.0.1",
+        "PortDB" : "3306",
+        "UserDB" : "root",
+        "PassDB" : "",
+        "NameDB" : "databaseName"
+    },
+    "urlEcommerce": "http://ecommerce.com/",
+    "WooApiConexion": {
+        "url": "http://merkazob2c.bexsoluciones.com",
+        "consumerKey": "ck_89feb92001fe07f96a61a9c38b3dc6cb1e774d22",
+        "consumerSecret": "cs_8683493c2cba88614fb14a54bb796b8f78e7e78c",
+        "version": "wc/v3"
+    },
+    "headerPosition": 0,
+    "columnDelimiter":"|",
+    "categoriesPositions": [5, 6, 7, 8],
+    "importFolder": "import/",
+    "exportFolder": "export/",
+    "processFolder": "download/",
+    "urlImages": "http://merkazob2c.bexsoluciones.com/wp-content/uploads/"
+}

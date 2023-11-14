@@ -1,0 +1,23 @@
+{
+    "conexion": {
+        "HostDB": "127.0.0.1",
+        "PortDB" : "3306",
+        "UserDB" : "root",
+        "PassDB" : "",
+        "NameDB" : "databaseName"
+    },
+    "urlEcommerce": "http://ecommerce.com/",
+    "WooApiConexion": {
+        "url": "http://localhost/ecommerce",
+        "consumerKey": "ck_d83f4b6f6aff1adcf8669e41e7e88c44967b3bac",
+        "consumerSecret": "cs_347c4fb0e18bc6631541bdcc319740d2b386a8e8",
+        "version": "wc/v3"
+    },
+    "headerPosition": 0,
+    "columnDelimiter":"|",
+    "categoriesPositions": [5, 6, 7, 8],
+    "importFolder": "import/",
+    "exportFolder": "export/",
+    "processFolder": "download/",
+    "urlImages": "http://localhost/ecommerce/wp-content/uploads/img_productos/"
+}
